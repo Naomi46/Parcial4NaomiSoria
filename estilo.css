@@ -1,0 +1,38 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+body{background-color: lightpink;
+} 
+ul{list-style: none;
+background-color: chocolate;
+width: 300px;
+padding: 10px;
+}
+.itemsnav{
+    display: inline;
+    padding: 10px;
+}
+h1{
+    background-image: url(./Imagenes/Trucos\ para\ elaborar\ sabrosos\ helados\ caseros.jpg);
+    background-size:cover;
+    background-position: 30%;
+    background-attachment: fixed;
+    padding: 90px 20px;
+    height: 200px;
+    text-align: center;
+    font-size: 4em;
+    text-shadow: 4px 4px lightcyan;
+}
+.tarjeta{
+    max-width: 300px;
+    margin: 30px auto;
+    border: 5px solid yellowgreen;
+    box-shadow: 5px 5px 10px lightcoral
+    -5px -5px 10px rgb(217, 217, 150);
+}
+.imgtarjeta{
+    width: 99%;
+}
+*{
+    box-sizing: border-box;
+    font-family:"Dancing Script", "Pacifico","Lobster";
+}
